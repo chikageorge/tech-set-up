@@ -12,7 +12,7 @@ Visual Studio Code is a powerful code editor. Here's how to install it:
 - **Download:** Go to [Visual Studio Code](https://code.visualstudio.com/).
 - **Installation:** Run the installer and follow the on-screen instructions.
 
-![Visual Studio Code Logo](images/vscode-logo.png)
+![Visual Studio Code](images/VSCode.png)
 
 ---
 
@@ -22,7 +22,7 @@ Git is a version control system used for interacting with GitHub repositories.
 - **Download:** Go to [Git](https://git-scm.com/) and download the installer.
 - **Installation:** Follow the setup wizard to install Git on your system.
 
-![Git Logo](images/git-logo.png)
+![Git](images/git.png)
 
 ---
 
@@ -32,7 +32,7 @@ VirtualBox allows you to run virtual machines on your Windows OS.
 - **Download:** Visit [VirtualBox](https://www.virtualbox.org/).
 - **Installation:** Execute the installer and complete the setup.
 
-![VirtualBox Logo](images/virtualbox-logo.png)
+![VirtualBox](images/vitualbox.png)
 
 ---
 
@@ -42,7 +42,7 @@ Ubuntu is a popular Linux operating system.
 - **Download Ubuntu ISO:** Visit [Ubuntu Desktop](https://ubuntu.com/download/desktop).
 - **Configure VirtualBox:** Create a new virtual machine in VirtualBox and mount the Ubuntu ISO.
 
-![Ubuntu Logo](images/ubuntu-logo.png)
+![Ubuntu](images/ubuntu.png)
 
 ---
 
@@ -54,7 +54,7 @@ GitHub is a platform for hosting and collaborating on code repositories.
 - **Sign Up:** Create an account at [GitHub](https://github.com/).
 - **Set Up Profile:** Customize your profile for better collaboration.
 
-![GitHub Logo](images/github-logo.png)
+![GitHub Account](images/github-account.png)
 
 ---
 
@@ -64,15 +64,6 @@ AWS (Amazon Web Services) provides cloud computing services.
 - **Sign Up:** Go to [AWS](https://aws.amazon.com/) and create an account.
 - **Set Preferences:** Select services based on your needs.
 
-![AWS Logo](images/aws-logo.png)
+![AWS Account](images/AWS-account.png)
 
 ---
-
-## Additional Tips
-- Organize downloaded tools into a dedicated folder for easy access.
-- Use GitHub repositories to document your work and share insights.
-- Explore tutorials for each tool to maximize their functionality.
-
----
-
-## Example Repository Structure
